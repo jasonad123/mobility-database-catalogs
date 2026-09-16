@@ -1,7 +1,7 @@
 {
     "mdb_source_id": 1156,
     "data_type": "gtfs",
-    "provider": "Potomac and Rappahannock Transportation Commission (PRTC) Omniride",
+    "provider": "OmniRide",
     "location": {
         "country_code": "US",
         "subdivision_name": "Virginia",
